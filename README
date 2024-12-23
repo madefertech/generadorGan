@@ -1,0 +1,14 @@
+# Generador de Imágenes Artísticas con Stable Diffusion
+
+Este proyecto genera imágenes artísticas basadas en texto utilizando Stable Diffusion.
+
+## Requisitos
+1. Python 3.10 o superior.
+2. GPU (opcional, pero recomendado para mejor rendimiento).
+3. Las siguientes bibliotecas (puedes instalarlas con `pip install -r requerimientos.txt`).
+
+## Instrucciones
+1. **Clona el repositorio o descarga los archivos.**
+2. **Instala las dependencias:**
+   ```bash
+   pip install -r requerimientos.txt
